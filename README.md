@@ -33,9 +33,9 @@ Sequelize
 
 
 ### Contributor
-Shane Bramble-Wade
-Gabriel Perez
-Alex Clarke
+Shane Bramble-Wade,
+Gabriel Perez,
+Alex Clarke,
 Anna Navales
 
 
